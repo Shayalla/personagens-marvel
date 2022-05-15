@@ -1,17 +1,3 @@
-const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-// const homenDeFerro = document.getElementById('homemDeFerro');
-
-// homenDeFerro.addEventListener('mouseenter', () => {
-//   homemDeFerro.classList.add('selecionado')
-// })
-
 const personagens = document.querySelectorAll('.personagem');
 
 personagens.forEach((el) => {
